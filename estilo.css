@@ -21,6 +21,8 @@ width: 30%;
 }
 
 .lista-item{
-    display: flex;
+    display: inline-flex;
+    font-size: 24px;
+    margin:0 16px;
 
 }
