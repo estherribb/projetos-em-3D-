@@ -13,7 +13,7 @@ color: white;
     background-color: gray;
 display: flex;
 align-items: center;
-justify-content: space-between;
+justify-content: space-around;
 }
 .cabecalho-imagem{
 width: 30%;
