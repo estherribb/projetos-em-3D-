@@ -21,6 +21,6 @@ width: 30%;
 }
 
 .lista-item{
-    display: inline-block;
+    display: flex;
 
 }
