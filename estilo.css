@@ -28,5 +28,9 @@ width: 30%;
 }
 
 .secao{
-    display:flex
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    
+    ;
 }
